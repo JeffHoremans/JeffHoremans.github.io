@@ -4,6 +4,23 @@
     <title>Embed</title>
 </head>
 <body>
-<iframe width="100%" height="100%" src="https://www.youtube.be/embed/w-rv2BQa2OU"></iframe>
+<iframe id="yt-video" width="100%" height="100%" src=""></iframe>
+<script>
+    window.onload = function() {
+        if (location.search){
+            var url = location.search;
+            var query = url.substr(1);
+            var result = {};
+            query.split("&").forEach(function(part) {
+              var item = part.split("=");
+              result[item[0]] = decodeURIComponent(item[1]);
+            });
+            if (result['video'] && result["start"] && result["end"]){
+                frame = document.getElementById("yt-video")
+                frame.src = "https://www.youtube.be/embed/"+result['video']+"?start="+result["start"]+"&end="+result["end"];
+            }
+        }
+    };
+</script>
 </body>
 </html>
