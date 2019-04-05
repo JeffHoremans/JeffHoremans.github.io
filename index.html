@@ -15,9 +15,15 @@
               var item = part.split("=");
               result[item[0]] = decodeURIComponent(item[1]);
             });
-            if (result['video'] && result["start"] && result["end"]){
+            var start = ""
+            var end = ""
+            var autoplay = ""
+            if (result['video']){
+                if(result["start"]) start = "&start="+result["start"];
+                if(result["end"]) end = "&end="+result["end"];
+                if(result["autoplay"]) autoplay = "&autoplay="+result["autoplay"];
                 frame = document.getElementById("yt-video")
-                frame.src = "https://www.youtube.be/embed/"+result['video']+"?start="+result["start"]+"&end="+result["end"];
+                frame.src = "https://www.youtube.be/embed/"+result['video']+"?iv_load_policy=3&modestbranding=1&fs=0&disablekb=1"+start+end+autoplay;
             }
         }
     };
