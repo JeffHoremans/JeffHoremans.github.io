@@ -51,12 +51,12 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "spelforumlier@gmail.com"
-  facebook: https://www.facebook.com/61555986953844/
   github: daattali
   twitter: daattali
   patreon: DeanAttali
   youtube: "@daattali"
   whatsapp: 15551212
+# facebook: https://www.facebook.com/61555986953844/
 #  instagram: deanat78
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
