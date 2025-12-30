@@ -2,8 +2,10 @@
 layout: page
 cover-img: /assets/img/faq.png
 title: ""
-subtitle: Veelgestelde Vragen
 ---
+
+### Veelgestelde Vragen
+
 
 <details markdown="1">
 <summary><b>Waar en wanneer kunnen we spellen komen spelen?</b></summary>
