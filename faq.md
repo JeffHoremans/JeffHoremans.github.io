@@ -1,9 +1,9 @@
 ---
 layout: page
-title: FAQ
-subtitle: Veelgestelde Vragen
 cover-img: /assets/img/faq.png
 ---
+
+# Veelgestelde Vragen
 
 <details markdown="1">
 <summary><b>Hoe laat moet ik er zijn?</b></summary>
