@@ -20,11 +20,10 @@ author: Meeples of Lier
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
+  Nieuws: "news"
+  Links:
+    - Boardgamegeek: "https://boardgamegeek.com/"
     - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
