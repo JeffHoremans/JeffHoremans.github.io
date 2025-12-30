@@ -2,6 +2,7 @@
 layout: page
 title: FAQ
 subtitle: Veelgestelde Vragen
+cover-img: /assets/img/faq.png
 ---
 
 <details markdown="1">
