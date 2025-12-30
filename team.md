@@ -6,7 +6,7 @@ subtitle: De Orde van de Meeple
 
 ### Jens
 
-<p class="post-meta">Bartender & Café Owner</p>
+<p class="theme-by text-muted">Bartender & Café Owner</p>
 
 * Keeper of drinks, space, and vibes
 * High Pourmage of the Sacred Tap
@@ -17,7 +17,7 @@ subtitle: De Orde van de Meeple
 
 ### Eva
 
-<p class="post-meta">Competitive, Anti-Coop, Logistics Boss</p>
+<p class="theme-by text-muted">Competitive, Anti-Coop, Logistics Boss</p>
 
 * Efficiency, dominance, and zero mercy
 * Supreme Quartermaster of Sleeves & Schedules
@@ -28,7 +28,7 @@ subtitle: De Orde van de Meeple
 
 ### Simon
 
-<p class="post-meta">Board Game Freak & Rules Oracle</p>
+<p class="theme-by text-muted">Board Game Freak & Rules Oracle</p>
 
 * Living rulebook, final authority
 * Grand Arbiter of Rule Clarifications
