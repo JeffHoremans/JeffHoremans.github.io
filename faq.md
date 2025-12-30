@@ -3,7 +3,7 @@ layout: page
 cover-img: /assets/img/faq.png
 ---
 
-# Veelgestelde Vragen
+## Veelgestelde Vragen
 
 <details markdown="1">
 <summary><b>Hoe laat moet ik er zijn?</b></summary>
