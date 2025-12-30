@@ -6,7 +6,6 @@ title: ""
 
 ### Veelgestelde Vragen
 
-
 <br/>
 <details markdown="1">
 <summary><b>Waar en wanneer kunnen we spellen komen spelen?</b></summary>
