@@ -9,11 +9,11 @@ Een keer per maand kan je in Lierke Plezierke terecht in deze club opgericht doo
 
 ## Praktische informatie
 
-<span class="fa-stack fa-lg" aria-hidden="true"><i class="fas fa-circle fa-stack-2x"></i><i class="fa fa-calendar fa-stack-1x fa-inverse"></i></span> **Wanneer**
+<span class="fa-stack fa-lg" aria-hidden="true"><i class="fas fa-circle fa-stack-2x"></i><i class="fa fa-calendar fa-stack-1x fa-inverse"></i></span> **Wanneer spelen we**
 
 Elke eerste dinsdag van de maand van 19u30 to 0u00
 
-<span class="fa-stack fa-lg" aria-hidden="true"><i class="fas fa-circle fa-stack-2x"></i><i class="fa fa-euro fa-stack-1x fa-inverse"></i></span> **Prijs**
+<span class="fa-stack fa-lg" aria-hidden="true"><i class="fas fa-circle fa-stack-2x"></i><i class="fa fa-euro fa-stack-1x fa-inverse"></i></span> **Wat moet dat kosten**
 
 Keuze uit bijdrage per spelavond of jaarlidmaatschap
 * Eerste keer gratis
