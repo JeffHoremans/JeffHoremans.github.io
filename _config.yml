@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: Meeples of Lier
+title: Meeples Of Lier
 
 # Your name to show in the footer
-author: Meeples of Lier
+author: Meeples Of Lier
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -21,9 +21,7 @@ author: Meeples of Lier
 
 navbar-links:
   Nieuws: "news"
-  Links:
-    - Boardgamegeek: "https://boardgamegeek.com/"
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+  
 
 ################
 # --- Logo --- #
@@ -82,10 +80,6 @@ social-network-links:
 #  itchio: yourname
 #  untappd: yourname
 #  strava: youruserid
-
-# If you want your website to generate an RSS feed, provide a description
-# The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
 
 ###########################
 # --- General options --- #
