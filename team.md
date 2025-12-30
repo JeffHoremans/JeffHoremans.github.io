@@ -6,7 +6,7 @@ subtitle: De Orde van de Meeple
 
 ### Jens
 
-*Tapmeester & gastheer*
+<span class="fa-stack fa-lg" aria-hidden="true"><i class="fas fa-circle fa-stack-2x"></i><i class="fa fa-beer fa-stack-1x fa-inverse"></i></span> *Tapmeester & gastheer*
 
 * Keeper of drinks, space, and vibes
 * High Pourmage of the Sacred Tap
@@ -15,7 +15,7 @@ subtitle: De Orde van de Meeple
 
 ### Eva
 
-*Opperbevelhebber Logistiek & Engagement*
+<span class="fa-stack fa-lg" aria-hidden="true"><i class="fas fa-circle fa-stack-2x"></i><i class="fa fa-group fa-stack-1x fa-inverse"></i></span> *Opperbevelhebber Logistiek & Engagement*
 
 * Archduchess of Logistics and Crushing Defeat
 * Minister of Practicality & Competitive Integrity
@@ -24,7 +24,7 @@ subtitle: De Orde van de Meeple
 
 ### Simon
 
-*Regelmeester & Spellencurator*
+<span class="fa-stack fa-lg" aria-hidden="true"><i class="fas fa-circle fa-stack-2x"></i><i class="fa fa-book fa-stack-1x fa-inverse"></i></span> *Regelmeester & Spellencurator*
 
 * Grand Arbiter & Rules Oracle
 * High Curator of Games and Knowledge
