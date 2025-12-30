@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Meeples of Lier
-subtitle: Speel mee bij Meeples of Lier - elke eerste dinsdag van de maand in Den Akoestiek.
+subtitle: Elke eerste dinsdag van de maand in Den Akoestiek.
 ---
 
 Meeples of Lier, kortweg MOL, vindt zijn thuis in het cultuurcentrum de Mol in Lier.
