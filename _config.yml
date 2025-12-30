@@ -22,7 +22,7 @@ author: Meeples Of Lier
 navbar-links:
   Nieuws: "news"
   Spellenaanbod: "https://boardgamegeek.com/geeklist/333867/meeples-of-lier-boardgame-cafe-spellenaanbod"
-  
+  Ons Team: "team"
 
 ################
 # --- Logo --- #
@@ -57,30 +57,11 @@ social-network-links:
 # youtube: "@daattali"
 # whatsapp: 15551212
 #  instagram: deanat78
-#  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  spotify: yourname
 #  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
-#  mastodon: instance.url/@username
-#  bluesky: yourname
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
-#  discord: "invite_code" or "users/userid" or "invite/invite_code"
-#  kaggle: yourname
-#  hackerrank: yourname
-#  gitlab: yourname
-#  itchio: yourname
-#  untappd: yourname
-#  strava: youruserid
 
 ###########################
 # --- General options --- #
