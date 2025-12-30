@@ -2,6 +2,7 @@
 layout: home
 title: Meeples of Lier
 subtitle: Elke eerste dinsdag van de maand in Den Akoestiek.
+cover-img: /assets/img/bgg-cafe.jpg
 ---
 
 Meeples of Lier, kortweg MOL, vindt zijn thuis in het cultuurcentrum de Mol in Lier.
