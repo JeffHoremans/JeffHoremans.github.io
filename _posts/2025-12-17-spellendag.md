@@ -2,7 +2,7 @@
 layout: post
 title: Spellendag tussen Kerst en Nieuw
 cover-img: /assets/img/spellendag-avereghs.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/spellendag-avereghs.jpg
 share-img: /assets/img/spellendag-avereghs.jpg
 tags: [nieuws, test]
 author: Meeples Of Lier
