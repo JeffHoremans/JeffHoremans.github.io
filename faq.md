@@ -17,6 +17,6 @@ Absoluut, aan het cultuurcentrum zelf is een parking voorzien.
 Jazeker! We zijn een officiële partner van de UiTPAS. Dat houdt in dat je bij onze activiteiten punten kan sparen door je UiTPAS te scannen. 
 </details>
 <details markdown="1">
-<summary><b>Ik heb nog een andere vraag...</r></summary>
+<summary><b>Ik heb nog een andere vraag...</b></summary>
 Neem gerust contact met ons op.
 </details>
