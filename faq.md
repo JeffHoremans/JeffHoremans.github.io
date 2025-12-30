@@ -7,13 +7,14 @@ title: ""
 ### Veelgestelde Vragen
 
 
+<br/>
 <details markdown="1">
 <summary><b>Waar en wanneer kunnen we spellen komen spelen?</b></summary>
 
 We spelen normaal gezien elke eerste dinsdag van de maand in Den Akoestiek in Lier.
 Op de startpagina vind je het volledige adres en een kaartje.
 
-Uitzonderingen zijn de maand juni, dan zitten we wekelijks op Zomer in het Park, juli, dan zijn we er een maand niet.
+Uitzonderingen zijn de maand juni, dan zitten we wekelijks op Zomer in het Park, en de maand juli, dan zijn we er een maand niet.
 </details>
 
 <details markdown="1">
