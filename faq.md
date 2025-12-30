@@ -5,18 +5,18 @@ subtitle: Veelgestelde Vragen
 ---
 
 <details markdown="1">
-<summary><br>Hoe laat moet ik er zijn?</br></summary></summary>
+<summary><b>Hoe laat moet ik er zijn?</b></summary></summary>
 Onze spellenavonden starten om 19u30. Later aansluiten of vroeger afronden is uiteraard perfect mogelijk!
 </details>
 <details markdown="1">
-<summary><br>Is er parkeergelegenheid?</br></summary>
+<summary><b>Is er parkeergelegenheid?</b></summary>
 Absoluut, aan het cultuurcentrum zelf is een parking voorzien.
 </details>
 <details markdown="1">
-<summary><br>Kan ik met mijn UiTPAS bij jullie terecht?</br></summary>
+<summary><b>Kan ik met mijn UiTPAS bij jullie terecht?</b></summary>
 Jazeker! We zijn een officiële partner van de UiTPAS. Dat houdt in dat je bij onze activiteiten punten kan sparen door je UiTPAS te scannen. 
 </details>
 <details markdown="1">
-<summary><br>Ik heb nog een andere vraag...</br></summary>
+<summary><b>Ik heb nog een andere vraag...</r></summary>
 Neem gerust contact met ons op.
 </details>
