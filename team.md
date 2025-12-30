@@ -6,33 +6,27 @@ subtitle: De Orde van de Meeple
 
 ### Jens
 
-<p class="theme-by text-muted">Bartender & Café Owner</p>
+*Tapmeester & gastheer*
 
 * Keeper of drinks, space, and vibes
 * High Pourmage of the Sacred Tap
 * Grand Innkeeper of Meeples & Mugs
-* Master of the Bar & Tabletop Realms
-* Lord of Libations and Long Game Nights
 * The One Who Controls the Opening Hours
 
 ### Eva
 
-<p class="theme-by text-muted">Competitive, Anti-Coop, Logistics Boss</p>
+*Opperbevelhebber Logistiek & Engagement*
 
-* Efficiency, dominance, and zero mercy
-* Supreme Quartermaster of Sleeves & Schedules
-* Mistress of Victory Conditions
-* The Unyielding Enforcer of Rules & Results
-* Archduchess of Logistics (and Crushing Defeat)
+* Archduchess of Logistics and Crushing Defeat
 * Minister of Practicality & Competitive Integrity
+* Guardian of Good Times & Engagement
+* The One Who Refuses Shared Victory
 
 ### Simon
 
-<p class="theme-by text-muted">Board Game Freak & Rules Oracle</p>
+*Regelmeester & Spellencurator*
 
-* Living rulebook, final authority
-* Grand Arbiter of Rule Clarifications
-* The Walking Appendix
-* High Priest of Rulebooks
-* Keeper of the FAQ
-* The One Who Knows (and Will Explain Again)
+* Grand Arbiter & Rules Oracle
+* High Curator of Games and Knowledge
+* Warden of Friendly Competition and Fun
+* The One Who Has Actually Read the Manual
