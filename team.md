@@ -2,6 +2,7 @@
 layout: page
 title: Team
 subtitle: De Orde van de Meeple
+cover-img: /assets/img/bgg-cafe.jpg
 ---
 
 ### Jens
