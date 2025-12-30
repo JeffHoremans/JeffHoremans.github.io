@@ -9,15 +9,14 @@ Een keer per maand kan je in Lierke Plezierke terecht in deze club opgericht doo
 
 ## Praktische informatie
 
-<span class="fa-stack fa-lg" aria-hidden="true"><i class="fas fa-circle fa-stack-2x"></i><i class="fa fa-calendar fa-stack-1x fa-inverse"></i></span><br/>
+<span class="fa-stack fa-lg" aria-hidden="true"><i class="fas fa-circle fa-stack-2x"></i><i class="fa fa-calendar fa-stack-1x fa-inverse"></i></span>
+### Wanneer
+
 Elke eerste dinsdag van de maand van 19u30 to 0u00
 
-<span class="fa-stack fa-lg" aria-hidden="true"><i class="fas fa-circle fa-stack-2x"></i><i class="fa fa-map fa-stack-1x fa-inverse"></i></span><br/>
-Den Akoestiek - Cultuurcentrum De Mol
-Aarschotsesteenweg 3
-2500 Lier
+<span class="fa-stack fa-lg" aria-hidden="true"><i class="fas fa-circle fa-stack-2x"></i><i class="fa fa-euro fa-stack-1x fa-inverse"></i></span>
+### Prijs
 
-<span class="fa-stack fa-lg" aria-hidden="true"><i class="fas fa-circle fa-stack-2x"></i><i class="fa fa-euro fa-stack-1x fa-inverse"></i></span><br/>
 Keuze uit bijdrage per spelavond of jaarlidmaatschap
 * Eerste keer gratis
 * € 2 per persoon per spelavond
@@ -25,6 +24,14 @@ Keuze uit bijdrage per spelavond of jaarlidmaatschap
 * € 10 voor jaarlidmaatschap
 * € 27 voor een gezinsabonnement
 
+
+<span class="fa-stack fa-lg" aria-hidden="true"><i class="fas fa-circle fa-stack-2x"></i><i class="fa fa-map fa-stack-1x fa-inverse"></i></span>
+### Waar vind je ons
+
+Den Akoestiek - Cultuurcentrum De Mol<br/>
+Aarschotsesteenweg 3<br/>
+2500 Lier<br/>
+
 ## Contactgegevens
 
-<span class="fa-stack fa-lg" aria-hidden="true"><i class="fas fa-circle fa-stack-2x"></i><i class="fa fa-envelope fa-stack-1x fa-inverse"></i></span><br/> <a href="mailto:spelforumlier@gmail.com">spelforumlier@gmail.com</a>
+<span class="fa-stack fa-lg" aria-hidden="true"><i class="fas fa-circle fa-stack-2x"></i><i class="fa fa-envelope fa-stack-1x fa-inverse"></i></span> <a href="mailto:spelforumlier@gmail.com">spelforumlier@gmail.com</a>
