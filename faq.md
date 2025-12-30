@@ -5,7 +5,7 @@ subtitle: Veelgestelde Vragen
 ---
 
 <details markdown="1">
-<summary><b>Hoe laat moet ik er zijn?</b></summary></summary>
+<summary><b>Hoe laat moet ik er zijn?</b></summary>
 Onze spellenavonden starten om 19u30. Later aansluiten of vroeger afronden is uiteraard perfect mogelijk!
 </details>
 <details markdown="1">
