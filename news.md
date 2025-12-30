@@ -1,6 +1,6 @@
 ---
 layout: news
-title: Meeples of Lier
-subtitle: Nieuws
+title: Nieuws
+subtitle: Meeples Of Lier
 cover-img: /assets/img/bgg-cafe.jpg
 ---
