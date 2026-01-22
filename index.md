@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Meeples of Lier
-subtitle: Elke eerste dinsdag van de maand in Den Akoestiek.
+subtitle: Elke eerste dinsdag van de maand in Den Akoestiek
 cover-img: /assets/img/bgg-cafe.jpg
 ---
 
