@@ -16,13 +16,7 @@ Elke eerste dinsdag van de maand van 19u30 to 0u00
 
 <span class="fa-stack fa-lg" aria-hidden="true"><i class="fas fa-circle fa-stack-2x"></i><i class="fa fa-euro fa-stack-1x fa-inverse"></i></span> **Wat moet dat kosten?**
 
-Keuze uit bijdrage per spelavond of jaarlidmaatschap
-* Eerste keer gratis
-* € 2 per persoon per spelavond
-* € 4 per gezin per spelavond (gezin = 2 volwassenen en hun inwonende kinderen)
-* € 10 voor jaarlidmaatschap
-* € 27 voor een gezinsabonnement
-
+Helemaal niets! We werken niet meer met lidgeld, iedereen kan dus gratis komen genieten van onze spellen.
 
 <span class="fa-stack fa-lg" aria-hidden="true"><i class="fas fa-circle fa-stack-2x"></i><i class="fa fa-map fa-stack-1x fa-inverse"></i></span> **Waar vind je ons?**
 
