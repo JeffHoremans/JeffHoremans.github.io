@@ -20,11 +20,8 @@ author: Meeples Of Lier
 ###############################################
 
 navbar-links:
-  Nieuws: "news"
-  Over Ons: "team"
   FAQ: "faq"
   Spellenaanbod: "https://boardgamegeek.com/geeklist/333867/meeples-of-lier-boardgame-cafe-spellenaanbod"
-  Agenda: "agenda"
 
 ################
 # --- Logo --- #
