@@ -34,8 +34,8 @@ Als je op tijd komt, kan je makkelijk bij een tafel aansluiten en voor je het we
 
 
 <details markdown="1">
-<summary><b>Ik ken niet veel spellen, enkel Rummikub en Patience, is dat een probleem?</b></summary>
-Wij spelen ook graag Rummikub en we leggen je ook met veel plezier een nieuw spel uit!
+<summary><b>Ik ken niet veel spellen, enkel Rummikub en Patience. Is dat een probleem?</b></summary>
+Wij spelen ook graag Rummikub. En we leggen je met veel plezier een nieuw spel uit!
 Ook voor niet ervaren spelers hebben we een leuk aanbod (en heel veel geduld).
 </details>
 
@@ -51,14 +51,15 @@ Absoluut! Het café bevindt zich op het gelijkvloers en er zijn aangepaste toile
 
 <details markdown="1">
 <summary><b>Is jullie locatie goed bereikbaar?</b></summary>
-Kom te voet of met de fiets. Dat is gezond voor jou en het milieu en vooral ook leuk! Er is een fietsenstalling vlakbij de ingang.
 
-Het Liers Cultuurcentrum ligt op 1.8 km wandelen van het station van Lier. De bushaltes 'Lier De Mol' en ‘Lier Hoogveldweg’ liggen vlakbij. Plan je route op <a href="www.belgiantrain.be">www.belgiantrain.be</a> en/of <a href="www.delijn.be">www.delijn.be</a>.
+Idealiter kom je te voet of met de fiets. Het milieu zal je dankbaar zijn. Er is een fietsenstalling vlakbij de ingang.
 
-Auto: Aan het Liers Cultuurcentrum is een grote gratis parking.
+Het openbaar vervoer is zeker ook een optie. Het Liers Cultuurcentrum ligt op 1.8 km wandelen van het station van Lier. De bushaltes 'Lier De Mol' en ‘Lier Hoogveldweg’ liggen vlakbij. Plan je route op <a href="www.belgiantrain.be">www.belgiantrain.be</a> en/of <a href="www.delijn.be">www.delijn.be</a>.
+
+Kom je toch met de auto, dan is er aan het Liers Cultuurcentrum een grote gratis parking.
 </details>
 
 <details markdown="1">
 <summary><b>Ik heb nog een andere vraag...</b></summary>
-Neem gerust contact met ons op.
+Neem gerust contact met ons op via <a href="mailto:spelforumlier@gmail.com">spelforumlier@gmail.com</a>.
 </details>
