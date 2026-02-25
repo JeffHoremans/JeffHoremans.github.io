@@ -41,6 +41,12 @@ Als je op tijd komt, kan je makkelijk bij een tafel aansluiten en voor je het we
 <summary><b>Ik ken niet veel spellen, enkel Rummikub en Patience. Is dat een probleem?</b></summary>
 Wij spelen ook graag Rummikub. En we leggen je met veel plezier een nieuw spel uit!
 Ook voor niet ervaren spelers hebben we een leuk aanbod (en heel veel geduld).
+
+<details markdown="1">
+<summary><b>Kan je ook Monopoly spelen?</b></summary>
+Nee...
+</details>
+
 </details>
 
 <details markdown="1">
