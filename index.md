@@ -2,7 +2,7 @@
 layout: home
 title: Meeples of Lier
 subtitle: Gezellig boardgamecafé
-cover-img: /assets/img/bgg-cafe.jpg
+cover-img: /assets/img/akoestiek.jpg
 ---
 
 Meeples of Lier vindt haar thuis in het cultuurcafé van het Liers Cultuurcentrum.<br/>
