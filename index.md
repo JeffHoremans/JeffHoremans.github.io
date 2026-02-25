@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Meeples of Lier
-subtitle: Gezellig boardgamecafé <br/> elke eerste dinsdag van de maand in Den Akoestiek
+subtitle: <span class="page-subheading"><span>Gezellig boardgamecafé</span><br><span>elke eerste dinsdag van de maand in Den Akoestiek</span></span>
 cover-img: /assets/img/bgg-cafe.jpg
 ---
 
@@ -19,7 +19,7 @@ Elke eerste dinsdag van de maand van 19u30 tot middernacht (of tot de uitbater o
 
 Helemaal niets! Enkel de drankjes (en zelf afgesloten weddenschappen) zijn zelf te betalen.
 
-<span class="fa-stack fa-lg" aria-hidden="true"><i class="fas fa-circle fa-stack-2x"></i><i class="fa fa-location-dot fa-stack-1x fa-inverse"></i></span> **Waar vind je ons?**
+<span class="fa-stack fa-lg" aria-hidden="true"><i class="fas fa-circle fa-stack-2x"></i><i class="fa fa-location-pin fa-stack-1x fa-inverse"></i></span> **Waar vind je ons?**
 
 Den Akoestiek - Liers Cultuurcentrum<br/>
 Aarschotsesteenweg 3<br/>
