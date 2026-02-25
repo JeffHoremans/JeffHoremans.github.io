@@ -18,11 +18,15 @@ Elke eerste dinsdag van de maand van 19u30 tot middernacht (of tot de uitbater o
 
 Helemaal niets! Enkel de drankjes (en zelf afgesloten weddenschappen) zijn zelf te betalen.
 
-<span class="fa-stack fa-lg" aria-hidden="true"><i class="fas fa-circle fa-stack-2x"></i><i class="fa fa-location-pin fa-stack-1x fa-inverse"></i></span> **Moet ik iets meebrengen?**
+<span class="fa-stack fa-lg" aria-hidden="true"><i class="fas fa-circle fa-stack-2x"></i><i class="fa fa-location-pin fa-stack-1x fa-inverse"></i></span> **Moet je iets meebrengen?**
 
 Je mag altijd je favoriete spel of buurvrouw meenemen, maar dat hoeft niet.<br/>
 Wij voorzien zowel spelers als spellen.<br/>
 Check <a href="geeklist/333867/meeples-of-lier-boardgame-cafe-spellenaanbod">hier</a> ons spellenaanbod.
+
+<span class="fa-stack fa-lg" aria-hidden="true"><i class="fas fa-circle fa-stack-2x"></i><i class="fa fa-location-pin fa-stack-1x fa-inverse"></i></span> **Heb je nog vragen?**
+
+Stel ze gerust op onze volgende boardgame-avond, of zoek je vraag in onze <a href="/faq">FAQ</a>.
 
 <span class="fa-stack fa-lg" aria-hidden="true"><i class="fas fa-circle fa-stack-2x"></i><i class="fa fa-location-pin fa-stack-1x fa-inverse"></i></span> **Waar vind je ons?**
 
