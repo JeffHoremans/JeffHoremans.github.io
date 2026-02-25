@@ -172,7 +172,7 @@ img {
 .navbar-custom.top-nav-short,
 .navbar-custom.top-nav-short-permanent {
   padding-top: 0;
-  padding-bottom: 0;
+  padding-bottom: 35px;
 }
 
 .navbar-custom .navbar-brand {
