@@ -35,7 +35,7 @@ Aarschotsesteenweg 3<br/>
 2500 Lier<br/>
 <a href="http://www.denakoestiek.be">www.denakoestiek.be</a>
 
-<span class="fa-stack fa-lg" aria-hidden="true"><i class="fas fa-circle fa-stack-2x"></i><i class="fa fa-envelope fa-stack-1x fa-inverse"></i></span>
+<span class="fa-stack fa-lg" aria-hidden="true"><i class="fas fa-circle fa-stack-2x"></i><i class="fa fa-envelope fa-stack-1x fa-inverse"></i></span> **Hoe contacteer je ons?**
 
 <a href="mailto:spelforumlier@gmail.com">spelforumlier@gmail.com</a>
 
