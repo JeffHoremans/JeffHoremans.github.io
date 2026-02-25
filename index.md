@@ -1,11 +1,12 @@
 ---
 layout: home
 title: Meeples of Lier
-subtitle: Gezellig boardgamecafé. Elke eerste dinsdag van de maand in Den Akoestiek
+subtitle: Gezellig boardgamecafé <br/> elke eerste dinsdag van de maand in Den Akoestiek
 cover-img: /assets/img/bgg-cafe.jpg
 ---
 
 Meeples of Lier vindt haar thuis in het cultuurcafé van het Liers Cultuurcentrum.
+<br/>
 Een keer per maand kan iedereen in Lierke Plezierke aanschuiven bij onze speltafels.
 
 ## Praktische informatie
@@ -16,7 +17,7 @@ Elke eerste dinsdag van de maand van 19u30 tot middernacht (of tot de uitbater o
 
 <span class="fa-stack fa-lg" aria-hidden="true"><i class="fas fa-circle fa-stack-2x"></i><i class="fa fa-euro fa-stack-1x fa-inverse"></i></span> **Wat moet dat kosten?**
 
-Helemaal niets! Enkel de drankjes aan de bar zijn zelf te betalen (zelf afgesloten weddenschappen komen we niet tussen).
+Helemaal niets! Enkel de drankjes (en zelf afgesloten weddenschappen) zijn zelf te betalen.
 
 <span class="fa-stack fa-lg" aria-hidden="true"><i class="fas fa-circle fa-stack-2x"></i><i class="fa fa-map fa-stack-1x fa-inverse"></i></span> **Waar vind je ons?**
 
