@@ -32,9 +32,16 @@ Natuurlijk! Je komt sowieso bij mensen terecht die net zo van bordspellen houden
 Als je op tijd komt, kan je makkelijk bij een tafel aansluiten en voor je het weet, heb je nieuwe vrienden gemaakt.
 </details>
 
+
+<details markdown="1">
+<summary><b>Ik ken niet veel spellen, enkel Rummikub en Patience, is dat een probleem?</b></summary>
+Wij spelen ook graag Rummikub en we leggen je ook met veel plezier een nieuw spel uit!
+Ook voor niet ervaren spelers hebben we een leuk aanbod (en heel veel geduld).
+</details>
+
 <details markdown="1">
 <summary><b>Kan ik met mijn UiTPAS bij jullie terecht?</b></summary>
-Jazeker! We zijn een officiële partner van <a href="https://www.uitpasrivierenland.be/">UiTPAS Rivierenland</a>. Dat houdt in dat je bij onze activiteiten punten kan sparen door je UiTPAS te scannen. 
+Jazeker! We zijn een officiële partner van <a href="https://www.uitpasrivierenland.be/">UiTPAS Rivierenland</a>. Dat houdt in dat je bij onze activiteiten punten kan sparen door je UiTPAS te scannen.
 </details>
 
 <details markdown="1">
