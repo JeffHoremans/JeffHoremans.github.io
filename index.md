@@ -1,7 +1,8 @@
 ---
 layout: home
 title: Meeples of Lier
-subtitle: <span class="page-subheading"><span>Gezellig boardgamecafé</span><br><span>elke eerste dinsdag van de maand in Den Akoestiek</span></span>
+subtitle: Gezellig boardgamecafé
+subtitle_2: elke eerste dinsdag van de maand in Den Akoestiek
 cover-img: /assets/img/bgg-cafe.jpg
 ---
 

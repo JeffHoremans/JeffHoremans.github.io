@@ -32,6 +32,10 @@ Natuurlijk! Je komt sowieso bij mensen terecht die net zo van bordspellen houden
 Als je op tijd komt, kan je makkelijk bij een tafel aansluiten en voor je het weet, heb je nieuwe vrienden gemaakt.
 </details>
 
+<details markdown="1">
+<summary><b>Wie mag er beginnen?</b></summary>
+<iframe name="chooser" width="600px" height="400px" src="https://chooser.kuehle.me/" scrolling="no" marginwidth="0" marginheight="0" style="border:0px none #ffffff;"></iframe>
+</details>
 
 <details markdown="1">
 <summary><b>Ik ken niet veel spellen, enkel Rummikub en Patience. Is dat een probleem?</b></summary>
@@ -57,6 +61,11 @@ Idealiter kom je te voet of met de fiets. Het milieu zal je dankbaar zijn. Er is
 Het openbaar vervoer is zeker ook een optie. Het Liers Cultuurcentrum ligt op 1.8 km wandelen van het station van Lier. De bushaltes 'Lier De Mol' en ‘Lier Hoogveldweg’ liggen vlakbij. Plan je route op <a href="www.belgiantrain.be">www.belgiantrain.be</a> en/of <a href="www.delijn.be">www.delijn.be</a>.
 
 Kom je toch met de auto, dan is er aan het Liers Cultuurcentrum een grote gratis parking.
+</details>
+
+<details markdown="1">
+<summary><b>Aan wie is het?</b></summary>
+Aan u!
 </details>
 
 <details markdown="1">
