@@ -19,7 +19,7 @@ Elke eerste dinsdag van de maand van 19u30 tot middernacht (of tot de uitbater o
 
 Helemaal niets! Enkel de drankjes (en zelf afgesloten weddenschappen) zijn zelf te betalen.
 
-<span class="fa-stack fa-lg" aria-hidden="true"><i class="fas fa-location-dot fa-stack-2x"></i><i class="fa fa-map fa-stack-1x fa-inverse"></i></span> **Waar vind je ons?**
+<span class="fa-stack fa-lg" aria-hidden="true"><i class="fas fa-circle fa-stack-2x"></i><i class="fa fa-location-dot fa-stack-1x fa-inverse"></i></span> **Waar vind je ons?**
 
 Den Akoestiek - Liers Cultuurcentrum<br/>
 Aarschotsesteenweg 3<br/>
