@@ -30,7 +30,7 @@ Stel ze gerust op onze volgende boardgame-avond, of zoek je vraag in onze <a hre
 
 <span class="fa-stack fa-lg" aria-hidden="true"><i class="fas fa-circle fa-stack-2x"></i><i class="fa fa-envelope fa-stack-1x fa-inverse"></i></span> **Hoe contacteer je ons?**
 
-<a href="mailto:spelforumlier@gmail.com">spelforumlier@gmail.com</a>
+<a href="mailto:meeples.lier@gmail.com">meeples.lier@gmail.com</a>
 
 <span class="fa-stack fa-lg" aria-hidden="true"><i class="fas fa-circle fa-stack-2x"></i><i class="fa fa-location-pin fa-stack-1x fa-inverse"></i></span> **Waar vind je ons?**
 

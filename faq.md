@@ -75,5 +75,5 @@ Nee...
 
 <details markdown="1">
 <summary><b>Ik heb nog een andere vraag...</b></summary>
-Neem gerust contact met ons op via <a href="mailto:spelforumlier@gmail.com">spelforumlier@gmail.com</a>.
+Neem gerust contact met ons op via <a href="mailto:meeples.lier@gmail.com">meeples.lier@gmail.com</a>.
 </details>
